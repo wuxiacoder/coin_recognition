@@ -5,3 +5,4 @@ Counting and Recognizing Coins using Image Segmentation or Watershed Algorithm z
 ###### Output:
 ![FP1_output.jpg](https://github.com/reymundvirtus/Coin_Recognition/blob/main/FP1_output.jpg?raw=true)
 ![FP2_output.jpg](https://github.com/reymundvirtus/Coin_Recognition/blob/main/FP2_output.jpg?raw=true)
+![FP3_output.png](https://github.com/wuxiacoder/coin_recognition/blob/main/FP3_output.png?raw=true)
